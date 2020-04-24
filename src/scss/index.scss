@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  scroll-behavior: smooth;
+} 
+
+::placeholder {
+  color: gray;
+}
